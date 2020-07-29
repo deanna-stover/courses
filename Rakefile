@@ -8,17 +8,17 @@ def write_markdown(file, year)
 layout: syllabus
 course:
   term: Fall 2020
-  number: ENGL 123
+  number: IDST 270
   description: ""
   meetings:
   - location: LAAH 123
-    time: MWF 10-12
+    time: MWF
 instructors:
-- name: Andrew Pilsch
-  email: apilsch@tamu.edu
+- name: Deanna Stover
+  email: deanna.stover@cnu.edu
   office:
-  - hours: MWF 1-2
-    location: LAAH 417
+  - hours: 
+    location: 
 ---
 
 # Schedule
