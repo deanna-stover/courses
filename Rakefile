@@ -11,8 +11,8 @@ course:
   number: IDST 270
   description: ""
   meetings:
-  - location: LAAH 123
-    time: MWF
+  - location:
+    time: MWF 9 - 9:50
 instructors:
 - name: Deanna Stover
   email: deanna.stover@cnu.edu
@@ -36,8 +36,8 @@ def write_yaml(file)
 
   File.write("_data/#{file}.yml", %(---
 title: "Course Title"
-start: 2020-08-19
-end: 2020-11-24
+start: 2020-08-15
+end: 2020-11-20
 holidays:
 - date: 2020-11-25
   name: Reading Day
