@@ -9,16 +9,16 @@ layout: syllabus
 course:
   term: Fall 2020
   number: IDST 270
-  description: ""
+  description: "Introduction to Digital Humanities"
   meetings:
-  - location:
-    time: MWF 9 - 9:50
+  - location: TRIB 1213
+    time: MWF 3 - 3:50
 instructors:
 - name: Deanna Stover
   email: deanna.stover@cnu.edu
   office:
   - hours: 
-    location: 
+    location: online
 ---
 
 # Schedule
