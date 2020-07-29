@@ -1,0 +1,32 @@
+---
+start: 2020-08-17
+end: 2020-11-20
+holidays:
+  - date: 
+    name: 
+  - date: 
+    name: 
+  - date:
+    name: 
+meets:
+  - monday
+  - wednesday
+  - friday
+units:
+  - title: 
+    start: 
+  - title: 
+    start: 
+  - title: 
+    start: 
+  - title: 
+    start: 
+  - title: 
+    start:
+  - title: 
+    start: 
+  - title: 
+    start:
+classes:
+  - |
+    * Course Overview
