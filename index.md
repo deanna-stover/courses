@@ -2,7 +2,7 @@
 layout: default
 title: "Deanna Stover's Courses"
 ---
-# Courses I've Taught
+# Recent Courses
 
 {% assign year = "now" | date: "%Y" |abs %}
 {% assign earliestYear = year %}
