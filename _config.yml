@@ -8,7 +8,7 @@ exclude:
   - Gemfile.lock
   - Rakefile
   - Readme.md
-  - _scripts/
+
   
 twitter_username: deannaMFstover
 github_username:  deanna-stover
