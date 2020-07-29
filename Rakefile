@@ -39,15 +39,15 @@ title: "Course Title"
 start: 2020-08-15
 end: 2020-11-20
 holidays:
-- date: 2020-11-25
-  name: Reading Day
+- date: 
+  name: 
 meets:
 - monday
 - wednesday
 - friday
 units:
-- title: First Unit
-  start: 1
+- title: 
+  start: 
 weeks:
 "1": First Week
 classes:
