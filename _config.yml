@@ -9,3 +9,5 @@ exclude:
   - Rakefile
   - Readme.md
   - _scripts/
+
+theme: jekyll-theme-minimal
