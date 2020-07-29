@@ -15,3 +15,13 @@ instructors:
     location:
 layout: syllabus
 ---
+
+# Assignments
+
+# Schedule
+
+{% include schedule.html %}
+
+# Policies
+
+{% include policies.md %}
