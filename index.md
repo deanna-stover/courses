@@ -25,4 +25,4 @@ Now we can print the list:
 {% endcomment %}
 {% for key in courses %}{% assign course = site.data[key] %}{% assign year = course.start | slice: 0,4%}{% capture guessed_title %}{{ key | slice: 0,4 | upcase }} {{ key | slice: 4, 3}}, {{ key | slice: 7,3 | replace: "fal", "Fall" | replace: "spr", "Spring" | replace: "sum", "Summer" }} {{ year }}{% endcapture %}
 * [{{course.title | default: guessed_title }}]({{ year | append: "/" | append: key | relative_url }}){% endfor %}
-{: .f2}
+{: .f2} 
