@@ -14,6 +14,3 @@ twitter_username: deannaMFstover
 github_username:  deanna-stover
 
 theme: jekyll-theme-minimal
-toc_depth: 1 
-plugins:
-  - jekyll-feed
