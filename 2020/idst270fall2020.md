@@ -7,13 +7,6 @@ course:
     '
   number: IDST 270
   title: Introduction to Digital Humanities
-instructors:
-- name: Deanna Stover
-  email: deanna.stover@cnu.edu
-  office:
-  - hours: ''
-    location:
-layout: syllabus
 ---
 
 # Assignments
