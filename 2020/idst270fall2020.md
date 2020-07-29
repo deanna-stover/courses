@@ -1,3 +1,6 @@
+# Syllabus
+
+## IDST 270: Introduction to Digital Humanities
 ---
 title: Syllabus
 course:
@@ -9,12 +12,12 @@ course:
   title: Introduction to Digital Humanities
 ---
 
-# Assignments
+## Assignments
 
-# Schedule
+## Schedule
 
 {% include schedule.html %}
 
-# Policies
+## Policies
 
 {% include policies.md %}
