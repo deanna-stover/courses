@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Andrew Pilsch's Courses"
+title: "Deanna Stover's Courses"
 ---
 # Courses I've Taught
 
