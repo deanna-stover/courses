@@ -5,7 +5,7 @@ course:
   description: |
     This course introduces students to authoring practices associated with digital spaces. Students can expect to learn strategies for writing on the web, using visual communication, and organizing data for digital projects.
   number: ENGL 460
-  title: 'Digital Authoring Practices'
+  title: 'Introduction to Digital Humanities'
 instructors:
 - name: Andrew Pilsch
   email: apilsch@tamu.edu
